@@ -5,6 +5,12 @@
   "main": "",
   "author": "",
   "license": "",
-  "dependencies": {}
+  "dependencies": {
+    "common": "file:../libs/common",
+    "workspace": "file:../libs/workspace",
+    "assistance": "file:../libs/assistance",
+    "communicate": "file:../libs/communicate",
+    "my": "file:../libs/my"
+  }
 }
 
